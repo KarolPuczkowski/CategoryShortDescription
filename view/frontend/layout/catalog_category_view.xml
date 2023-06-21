@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+    <referenceContainer name="main.content">
+        <block class="Magento\Catalog\Block\Category\View" name="category.short.description" template="RedInGo_CategoryShortDescription::short_description.phtml" before="-"/>
+    </referenceContainer>
+</page>
